@@ -1,11 +1,14 @@
-### Hi there :sunglasses:
+### Hey there :sunglasses:
 
-- I´m just studying to become a frontend developer :sunflower:
+- I´m bootcamping now :muscle:.
 
-- I :heart:
-  cats :cat2: :smiley_cat: :smirk_cat: and
-  coffee :coffee:.
-- I´m a dancer :dancer:and an artist :art:.
+  That means I´m studying a lot to become a frontend developer.
+
+- I like
+    - cats :cat2: :smiley_cat: :smirk_cat:
+    - coffee :coffee:.
+    - dancing :dancer:and
+    - art :art:.
 
 <!--
 **katja-roehlig/katja-roehlig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
