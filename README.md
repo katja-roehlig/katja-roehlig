@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there :sunglasses:
+
+- I´m just studying to become a frontend developer :sunflower:
+
+- I :heart:
+  cats :cat2: :smiley_cat: :smirk_cat: and
+  coffee :coffee:.
+- I´m a dancer :dancer:and an artist :art:.
 
 <!--
 **katja-roehlig/katja-roehlig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
