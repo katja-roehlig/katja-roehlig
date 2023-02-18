@@ -1,8 +1,8 @@
 ### Hey there :sunglasses:
 
-- I´m bootcamping now :muscle:.
+- Bootcamp is over. Now I´m a Junior-Frontend-Developer :muscle:.
 
-  That means I´m studying a lot to become a frontend developer.
+  But I´m still studying to become a really really good frontend developer.
 
 - I like
     - cats :cat2: :smiley_cat: :smirk_cat:
