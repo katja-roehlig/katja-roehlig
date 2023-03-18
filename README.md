@@ -1,14 +1,22 @@
 ### Hey there :sunglasses:
 
-- Bootcamp is over. Now I´m a Junior-Frontend-Developer :muscle:.
+- Bootcamp is over. 
 
-  But I´m still studying to become a really really good frontend developer.
+  Now I´m looking for a job as a Junior-Frontend-Developer :muscle:.
 
-- I like
-    - cats :cat2: :smiley_cat: :smirk_cat:
-    - coffee :coffee:.
-    - dancing :dancer:and
-    - art :art:.
+  I love coding ♥️. There are so many exciting projects out there...
+
+
+
+
+
+- ![Codewars ](https://www.codewars.com/users/Katja%20R./badges/small) 
+    
+    [https://www.codewars.com/users/Katja%20R.](https://www.codewars.com/users/Katja%20R.)
+
+
+
+
 
 <!--
 **katja-roehlig/katja-roehlig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
