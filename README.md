@@ -1,13 +1,14 @@
 ### Hey there :sunglasses:
 
-- Bootcamp is over. 
+- Now I have a great job as a Junior-Frontend-Developer!
 
-  Now I´m looking for a job as a Junior-Frontend-Developer :muscle:.
+  I learn a lot of exciting things! :muscle:.
 
-  I love coding ♥️. There are so many exciting projects out there...
+- I love coding ♥️.
 
+  ---
 
-
+</br>
 
 
 - ![Codewars ](https://www.codewars.com/users/Katja%20R./badges/small) 
