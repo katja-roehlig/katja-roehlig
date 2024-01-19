@@ -20,7 +20,7 @@
 
 
 
-- Our project. Check it out now! ⚡
+- Our current project. Check it out now! ⚡
   
   https://beta.toolboxdatenkompetenz.de/
 
