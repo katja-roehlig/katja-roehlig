@@ -1,8 +1,11 @@
 ### Hey there :sunglasses:
 
-- Now I have a great job as a Junior-Frontend-Developer!
+- My old project at work has come to an end :frowning:
+ 
+  
+- Now I'm looking for a new challenge as a frontend developer :smiley:. <br>
+  I have learned a lot, nice things like: Next.js, React, ChakraUi, Strapi Cms, Playwright, Keycloak and Piwik Pro :muscle:.
 
-  I learn a lot of exciting things! :muscle:.
 
 - I love coding ♥️.
 
@@ -20,7 +23,7 @@
 
 
 
-- Our current project. Check it out now! ⚡
+- My last project on the job. Check it out now! ⚡
   
   https://beta.toolboxdatenkompetenz.de/
 
