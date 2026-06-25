@@ -1,13 +1,19 @@
 ### Hey there :sunglasses:
 
-- My old project at work has come to an end :frowning:
- 
-  
-- Now I'm looking for a new challenge as a frontend developer :smiley:. <br>
-  I have learned a lot, nice things like: Next.js, React, ChakraUi, Strapi Cms, Playwright, Keycloak and Piwik Pro :muscle:.
+I build full-stack applications with a focus on AI, user experience, and intelligent data processing.
 
+My journey into software development started with frontend development, but over the past months I have expanded into backend development, working with Python, FastAPI, databases, vector search, and multi-agent systems.
 
-- I love coding ♥️.
+I'm particularly fascinated by how AI applications can understand long-term context, build meaningful memory, and provide genuinely useful support to people over time.
+
+My current project, **Serenity**, explores exactly these ideas by combining long-term memory, semantic retrieval, agent-based workflows, and personalized user interaction into a single application.
+
+I'm currently looking for an opportunity as a Full-Stack Developer with a focus on AI-powered applications, backend development, and modern web technologies.
+
+At the same time, I continue to actively develop Serenity and enjoy connecting with people who are interested in AI systems, agent architectures, retrieval-based applications, and personal knowledge systems. If any of these topics resonate with you—or if you'd like to contribute to Serenity—feel free to reach out.
+
+🚀 Always learning. Always building.
+
 
   ---
 
@@ -19,8 +25,6 @@
     [https://www.codewars.com/users/Katja%20R.](https://www.codewars.com/users/Katja%20R.)
 
    ---
-
-
 
 
 - My last project on the job. Check it out now! ⚡
